@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a developer that builds random stuff In my free time I just zone out</p>
+<p align="left">I'm a guy that builds random stuff In my free time I just zone out</p>
 
 ###
 
