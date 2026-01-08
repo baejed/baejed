@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a developer that builds random stuff<br><br>- 🔭 I’m currently working on React Apps<br>- 📚 I'm currently learning Go<br>- ⚡ In my free time I just zone out</p>
+<p align="left">I'm a developer that builds random stuff In my free time I just zone out</p>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="left">🔥   My Stats :</h3> -->
 
 ###
 
